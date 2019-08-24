@@ -11,7 +11,9 @@ function App() {
   return (
     <div>
       <HeaderComponent />
-      <SidebarComponent/>
+      <SidebarComponent
+      lists={['Assunto 1','Assunto 2','Assunto 3','Assunto 4','Assunto 5','Assunto 6','Assunto 7','Assunto 8','Assunto 9',]}
+      />
       <MainComponent/>
       <FooterComponent/>
     </div>

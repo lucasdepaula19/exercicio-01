@@ -38,10 +38,10 @@ header {
 }
 
 .sidebar {
-  float: left;
+  float: right;
   margin-left: 10px;
-  margin-right: 10px;
-  min-width: 150px;
+  margin-right: 2em;
+  min-width: 200px;
   text-align: center;
 }
 
